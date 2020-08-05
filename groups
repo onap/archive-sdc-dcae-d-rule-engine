@@ -1,4 +1,5 @@
 # UUID                                                                                 	Group Name
 #
+c7f89e02dcd9ad12ef3e69d6f9c3acd156021233                                               	saml/onap-gerrit-sdc-dcae-d-rule-engine-committers
 daebbf523be390041a1a9c0e340a6d833aae5043                                               	GitHub Replication
 ldap:cn=onap-gerrit-sdc-dcae-d-rule-engine-committers,ou=Groups,dc=freestandards,dc=org	ldap/onap-gerrit-sdc-dcae-d-rule-engine-committers
